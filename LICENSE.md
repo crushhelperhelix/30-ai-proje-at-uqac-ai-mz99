@@ -1,4 +1,4 @@
-# 
+# Official 30+ AI Projects at UQAC plugins. Featuring image-recognition and computer-vision — optimized for maximum performance.
 
 
 
